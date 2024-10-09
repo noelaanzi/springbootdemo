@@ -8,7 +8,7 @@ public class GreetingsController {
 
     @GetMapping("/info")
     public String getInfo() {
-        return "Welcome to Spring Boot";
+        return "Welcome to Spring Boot Deployment To Cloud";
     }
 
 }
